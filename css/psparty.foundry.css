@@ -1,0 +1,19 @@
+.Fon {
+    margin-left: 5%;
+    margin-right: 5%;
+    color: black;
+    background: #000000;
+}
+
+.Fra {
+    margin-top : 20%;
+    font-size : 200%;
+    font-family : "Times", "Helvetica", "Arial", "Verdana", serif;
+    font-weight : 600;
+    font-variant : small-caps;
+    font-style : italic;
+    white-space : nowrap;
+    text-align : center;
+    width : 100%;
+    color : #666666;
+}
